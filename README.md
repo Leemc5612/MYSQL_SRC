@@ -8,6 +8,8 @@ root 암호 설정하는건 하지말것.
 
 교재 데이터베이스 141p 참고.
 
+워크스테이션 설치 찾아서 기입>-<
+
 ### 리눅스 MYMSQL 삭제 방법
 [MYSQL 제거](https://2vup.com/ubuntu-remove-mysql/)
 
